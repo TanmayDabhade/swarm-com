@@ -67,3 +67,4 @@ You will see simulation progress in the terminal (ticks, coverage, metrics), and
 
 You can easily adjust simulation parameters (number of drones, battery life, map size, max speed, and communication reliability) by modifying the `SimConfig` dataclass found in `sim/config.py`.
 # swarm-com
+# swarm-com
